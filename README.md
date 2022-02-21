@@ -306,9 +306,9 @@ Aby pobrać repozytorium wykorzystujemy komendę:
 
 ```bash
 # dla protokołu HTTPS:
-git clone https://github.com/infoshareacademy/jjdzr4-materialy-git.git
+git clone https://github.com/infoshareacademy/jfddr6-workshops-git.git
 # dla protokołu SSH:
-git clone git@github.com:infoshareacademy/jjdzr4-materialy-git.git
+git clone git@github.com:infoshareacademy/jfddr6-workshops-git.git
 ```
 
 Komenda `clone` domyślnie tworzy katalog o nazwie takiej jak nazwa repozytorium i kopiuje do niego zawartość zdalnego repozytorium. Jeśli chcemy aby zmiany zostały pobrane do aktualnego katalogu do komendy na końcu dodajemy kropkę.
